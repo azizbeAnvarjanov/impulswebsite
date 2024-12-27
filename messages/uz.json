@@ -1,0 +1,21 @@
+{
+    "HomePage": {
+      "title": "Salom udunyo",
+      "welcome": {
+        "title": "Home pgega hush kelibsz"
+      },
+      "contact": "Aloqa"
+    },
+    "contactForm": {
+      "name": "Ism",
+      "email": "pochta",
+      "message": "Habar",
+      "submit": "Bosish"
+    },
+    "validation": {
+      "invalid": "Email ungültig",
+      "required": "Name erforderlich",
+      "min": "Message erforderlich, um mindestens 10 Zeichen zu sein"
+    }
+  }
+  
